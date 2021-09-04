@@ -1,16 +1,8 @@
 <script>
   </script>
   
-  <main>
-  
-    <p class="codered">CODE RED</p>
-    <p class="คือ">คือ?</p>
-    <a href="#section1">
-        <button>
-            ไปดู
-        </button>
-    </a>
-
+  <main id="section1">
+    <h1>Code red ของโลก</h1>
   </main>
   
   <style>
@@ -54,13 +46,6 @@
       p {
         max-width: none;
       }
-    }
-    .codered{
-        font-size: 20vw;
-        color: red;
-    }
-    .คือ{
-        font-size: 25px;
     }
   </style>
   

@@ -2,11 +2,12 @@
   import logo from './assets/svelte.png'
   import Counter from './lib/Counter.svelte'
   import Top from './lib/Head.svelte'
+  import Second from './lib/Section1.svelte'
 </script>
 
 <main>
   <Top />
-
+  <Second />
 
 </main>
 
